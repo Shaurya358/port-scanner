@@ -1,0 +1,4 @@
+Port 22 is open
+Port 21 is open
+Port 23 is open
+Port 25 is open

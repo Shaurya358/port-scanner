@@ -1,0 +1,6 @@
+{
+    "target": "192.168.159.129",
+    "scan_type": "syn",
+    "open_ports": [],
+    "duration": 3.193255
+}
