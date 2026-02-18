@@ -32,6 +32,26 @@ Advanced:
 cd advanced
 sudo python3 scanner.py -t <target> -s syn -p 20-80
 
+## Features
+
+- Multi-Level Architecture (Basic → Advanced)
+- TCP / UDP Scanning
+- Multithreading
+- Banner Grabbing
+- OS Detection
+- Stealth Scan Techniques
+- JSON Reporting
+- CLI Argument Parsing
+
+## Technologies Used
+
+- Python
+- Scapy
+- Socket Programming
+- Multithreading
+- Git & GitHub
+
+
 ## Disclaimer
 
 This tool is built for educational and authorized penetration testing purposes only.
